@@ -2,3 +2,5 @@
 MNIST_data/
 summary/
 .DS_Store
+.python-version
+
